@@ -1,5 +1,6 @@
 <template>
-  <div>
-  </div>
+	<div>
+		title
+		<router-view/>
+	</div>
 </template>
-
